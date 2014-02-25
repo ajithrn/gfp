@@ -2,7 +2,7 @@
 Contributors: neojp, ajithrn
 Tags: gravityforms, gravity, forms, placeholders, html5, jquery.placeholders.js
 Requires at least: 3.0
-Tested up to: 3.4.1
+Tested up to: WP 3.8.1, and Gravity Form 1.8.4
 Stable tag: 1.2.1
 
 Adds HTML5 placeholder support to Gravity Forms' fields with a Javascript fallback. Javascript & jQuery are required.
@@ -17,5 +17,4 @@ Adds HTML5 placeholder support to the Gravity Forms plugin copying the Field's l
 3. Add the CSS class `gplaceholder` to text fields or textareas as needed, you can also add it to the form itself to enable this feature to all fields within it.
 
 == GitHub original source code ==
-
 http://github.com/neojp/gravity-forms-placeholders/
